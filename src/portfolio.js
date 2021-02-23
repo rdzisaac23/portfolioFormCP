@@ -120,7 +120,7 @@ const educationInfo = {
       logo: require("./assets/images/byuiLogo.png"),
       subHeader: "Asociate in Applied Technology",
       duration: "January 2019 - September 2021",
-      desc: "Participated in 4",
+      desc: "Participated in 4 certificates",
       descBullets: [
         "Social Media Marketing",
         "Web Programming"
